@@ -1720,6 +1720,4 @@ You can find important links mentioned in the YouTube video below:
 ## <a name="assets">📦 Assets</a>
 
 Assets used in the project can be
-found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
-
-
+found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)!
